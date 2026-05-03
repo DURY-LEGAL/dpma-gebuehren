@@ -1,0 +1,25 @@
+{
+  "name": "dpma-gebuehren",
+  "version": "0.1.0",
+  "description": "DPMA Gebuehren - Gebuehrenrechner und Kostenueberblick fuer DPMA Anmeldungen. Powered by DURY LEGAL.",
+  "keywords": [
+    "dpma",
+    "gebuehren",
+    "kosten",
+    "fees",
+    "trademark",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/dpma-gebuehren.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
